@@ -1,81 +1,43 @@
 # Zongren Liu
 
-Senior Software Engineer @ AWS
-AI Platforms • Multi-Agent Systems • AI Infrastructure • Enterprise Software Transformation
+**Principal Engineer · Amazon Web Services (AWS)**  
+**Enterprise Agent Platforms · Agent Governance · Distributed Infrastructure · A2A & MCP**
 
-I build production AI systems that turn LLM and agent capabilities into reliable enterprise platforms.
+I work on a foundational challenge in enterprise AI: **turning individual agents into a reliable, governable, and interoperable platform at scale.**
 
-My current work focuses on agent infrastructure, multi-agent orchestration, tool integration, evaluation, observability, and platform capabilities for large-scale software transformation.
+At AWS, I lead technical architecture for agent platforms and developer infrastructure powering enterprise-scale software transformation. My focus is on the shared abstractions, execution systems, and engineering interfaces that allow independently developed agents to work together across teams and partners.
 
-## Current Focus
+## Architecture Focus
 
-* Agent Platforms
-* Multi-Agent Systems
-* AI Infrastructure
-* LLM Reliability & Evaluation
-* Enterprise AI Systems
-* Software Modernization Platforms
+- **Agent governance & control plane** — agent registration, discovery, capability contracts, lifecycle management, and governance across an extensible ecosystem.
+- **Distributed execution & coordination** — asynchronous agent runtimes, multi-agent orchestration, agent-to-agent (A2A) collaboration, and resilient execution.
+- **Interoperability & developer infrastructure** — MCP/tool integration, Python SDKs, agent interfaces, deployment workflows, and developer experience.
+- **Production reliability** — observability, evaluation, traceability of tool use and handoffs, and uncertainty-aware agent behavior.
 
 ## Selected Work
 
-### AWS Transform
+**[Agent Builder Toolkit for AWS Transform](https://github.com/awslabs/agent-builder-toolkit-aws-transform)**  
+A public foundation for building and integrating custom transformation agents, including an Agent SDK, MCP server, deployment tooling, and registry integration.  
+[GitHub](https://github.com/awslabs/agent-builder-toolkit-aws-transform) · [AWS Transform Agent Toolkit for Kiro](https://kiro.dev/powers/)
 
-Enterprise software transformation platform powered by specialized AI agents and agentic workflows.
+**[AWS Transform](https://aws.amazon.com/transform/partners/)**  
+An enterprise modernization platform built around specialized AI agents. My work focuses on platform architecture, agent composability, and the extensibility model for AWS teams and external partners.
 
-* [AWS Transform Partner Ecosystem](https://aws.amazon.com/transform/partners/)
+**[Amazon Q Code Transformation](https://aws.amazon.com/q/developer/transform/)**  
+Generative AI infrastructure for large-scale application modernization and code transformation.
 
-### Agent Builder Toolkit for AWS Transform
+**[AWS DevOps Guru](https://aws.amazon.com/devops-guru/)**  
+Production AI systems for anomaly detection and operational insights.
 
-Public toolkit for building custom AWS Transform agents, including an Agent SDK, MCP server, deployment automation, and registry integration.
+## Research & Technical Contributions
 
-* [Agent Builder Toolkit](https://github.com/awslabs/agent-builder-toolkit-aws-transform)
-* [AWS Transform Agent Toolkit for Kiro](https://kiro.dev/powers/)
+My invention work explores uncertainty in AI-generated outputs, reliability of agent-tool interactions and handoffs, adaptive tool selection, and optimization of MCP tools. These interests connect to a broader question: **how do we make autonomous systems dependable enough to operate in production?**
 
-### Amazon Q Code Transformation
-
-Generative AI system for enterprise-scale application modernization and code transformation.
-
-* [Amazon Q Code Transformation](https://aws.amazon.com/q/developer/transform/)
-
-### AWS DevOps Guru
-
-Production AI service for anomaly detection, operational insights, and intelligent cloud operations.
-
-* [AWS DevOps Guru](https://aws.amazon.com/devops-guru/)
-
-## Patents & Inventions
-
-Selected invention areas:
-
-* Quantifiable uncertainty detection in LLM-generated documentation
-* Detecting and tracking uncertainty in LLM agent-tool interactions and multi-agent hand-offs
-* Adaptive tool disambiguation via semantic similarity and policy modeling
-* MCP tool optimization via program synthesis and functional abstraction
-
-## Talks
-
-### Network Telemetry and Big Data — SwiNOG #35
-
-Presented Swisscom’s Big Data perspective on network telemetry, covering flow aggregation, BMP, streaming telemetry, schema conversion, and analytics systems.
-
-* [SwiNOG #35 Presentation](https://www.swinog.ch/meetings/swinog35/)
-* [Presentation Video](https://youtu.be/xLtCajf2rQg)
-
-## Publications
-
-* Outsourced Proofs of Retrievability — ACM CCS 2014
-  [Google Scholar](https://scholar.google.com/citations?user=IIh9txQAAAAJ&hl=en)
+- **[Outsourced Proofs of Retrievability](https://scholar.google.com/citations?user=IIh9txQAAAAJ&hl=en)** — ACM CCS 2014.
+- **Network Telemetry and Big Data** — SwiNOG #35 (2019). [Talk and slides](https://www.swinog.ch/meetings/swinog35/) · [Video](https://youtu.be/xLtCajf2rQg)
 
 ## Background
 
-Previously built:
+Previously built large-scale AIOps and network analytics systems at Swisscom and low-latency trading infrastructure at 360T.
 
-* AIOps and anomaly detection systems at Swisscom
-* Real-time analytics and network telemetry platforms
-* High-performance trading infrastructure in financial technology
-* Security research systems for cloud computing
-
-## Connect
-
-* LinkedIn: https://www.linkedin.com/in/zongren/
-* Google Scholar: https://scholar.google.com/citations?user=IIh9txQAAAAJ&hl=en
+[LinkedIn](https://www.linkedin.com/in/zongren/) · [Google Scholar](https://scholar.google.com/citations?user=IIh9txQAAAAJ&hl=en)
